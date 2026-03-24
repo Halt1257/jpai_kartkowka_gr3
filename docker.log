@@ -48,5 +48,5 @@ docker build -t "obraz:v5:
    38  nano Dockerfile
    39  docker build -t obraz:v5
    40  nano Dockerfile
-   41  docker build -t obraz:v5
+   41  docker build -t obraz:v5 .
    42  history | tee docker.log
