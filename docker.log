@@ -1,0 +1,52 @@
+ 1  git clone https://github.com/PiotrPietrucha/test_docker_jpai.git
+    2  ls
+    3  cd test_docker_jpai
+    4  ls
+    5  nano Dockerfile
+    6  cat Dockerfile
+    7  docker build -t kartkowka
+    8  cat Dockerfile
+    9  docker run -d -p 80:3000 --name moja-apka lab-app
+   10  git add .
+   11  git commit -m "mamamamamama"
+   12  git clone https://github.com/Halt1257/jpai_kartkowka_gr3.git
+   13  ls
+   14  docker build -t obraz:v5
+   15  cd jpai_kartkowka_gr3
+   16  ls
+   17  docker build -t obraz:v5
+   18  nano Dockerfile
+   19  docker build -h
+   20  mv Dockerfile Dockerfile
+   21  docker build -t obraz:v5
+   22  docker buildx build --help
+   23  cd
+   24  ls
+   25  cd jpai_kartkowka_gr3
+   26  ls
+   27  nano package.json
+   28  nano app.js
+   29  nano README.md
+   30  docker build -t "obraz:v5:
+ls
+
+
+
+
+
+docker buildx build --help
+
+
+docker build -t "obraz:v5:
+   31  ls
+   32  docker buildx build --help
+   33  student@student-35:~/jpai_kartkowka_gr3$ clear
+   34  ls
+   35  docker build -t obraz:v5
+   36  nano Dockerfile
+   37  nano app.js
+   38  nano Dockerfile
+   39  docker build -t obraz:v5
+   40  nano Dockerfile
+   41  docker build -t obraz:v5
+   42  history | tee docker.log
